@@ -1,0 +1,338 @@
+{
+    "projects": [
+        {
+            "projectId" : 1,
+            "title" : "Basilisk VS Little Hero Game",
+            "descriptionFull" : "Basilisk VS Little Hero is a classic Snake game, with a Greek Mythology twist. The user plays as the Basilisk, and the aim of the game is to hunt down the Little Heroes as they randomly appear. For each Little Hero you eat, the longer you get. But the user has to be careful, because if they eat themself or crash into a wall, they die. I created this as a Year 12 high school student for my Digital Technologies class.",
+            "descriptionShort" : "Greek mythology twist on classic Snake game, made with Python",
+            "features" : ["Arrow Key Control", "Collision Detection", "Score Keeping"],
+            "languages" : ["Python"],
+            "tools" : ["Replit", "pixelart.com"],
+            "categories" : ["Game Development", "Graphic Design"],
+            "duration" : "18 Weeks",
+            "yearCompleted" : "2021",
+            "images" : [
+                {
+                    "url" : "pro1img1.png",
+                    "caption" : "Game Start",
+                    "alt" : "Screenshot of game with green background with a cracked egg and cartoon hero on it. Score is 0 in black text on the top left corner."
+                },
+                {
+                    "url" : "pro1img2.png",
+                    "caption" : "Short Snake, Low Score",
+                    "alt" : "Screenshot of game with green background with a short cartoon basilisk and cartoon hero on it. Score is 1 in black text on the top left corner."
+                },
+                {
+                    "url" : "pro1img3.png",
+                    "caption" : "Longer Snake, Higher Score",
+                    "alt" : "Screenshot of game with green background with a long cartoon basilisk and cartoon hero on it. Score is 11 in black text on the top left corner."
+                    
+                },
+                {
+                    "url" : "pro1img4.png",
+                    "caption" : "Super Long Snake, Mega High Score",
+                    "alt" : "Screenshot of game with green background with a very long cartoon basilisk and cartoon hero on it. Score is 28 in black text on the top left corner."
+                },
+                {
+                    "url" : "pro1img5.png",
+                    "caption" : "End of Game",
+                    "alt" : "Screenshot of game with green background and the words you died press q to quit or c to play again in red."
+                }
+            ],
+            "documentation" : "BasiliskVSHeroGame.zip"
+
+        },
+        {
+            "projectId" : 2,
+            "title" : "Miss Muffet Cakes Website",
+            "descriptionFull" : "This was a website I made for my Mum's cake business, Miss Muffet Cakes. It was my project for my web paper in the first year of my Bachelor of IT degree. Although it is not hosted, it was made as a prototype should my Mum ever want a proper website. Along with showcasing many of her cakes through an image gallery and slideshow, it also teaches the user about her history and achievements, as well as having a contact form for cake inquiries. This website is responsive and is designed for both mobile and desktop devices.",
+            "descriptionShort" : "Responsive website for cake business",
+            "features" : ["Responsive", "Image Gallery", "Slideshow", "Contact Form", "Flexbox"],
+            "languages" : ["HTML", "CSS", "JavaScript"],
+            "tools" : ["Visual Studio Code", "Coolors.co", "Figma"],
+            "categories" : ["Web Development", "Design"],
+            "duration" : "8 Weeks",
+            "yearCompleted" : "2023",
+            "images" : [
+                {
+                    "url" : "pro2img1.png",
+                    "caption" : "Home Page Nav Banner",
+                    "alt" : "Screenshot of desktop website with blue background, white Miss Muffet Cakes logo, and a chocolate cake. White text for navigation links and title."
+                },
+                {
+                    "url" : "pro2img2.png",
+                    "caption" : "Home Page Welcome Text and Slideshow",
+                    "alt" : "Screenshot of desktop website with black text on off-white background above of image of Darth Vader cake."
+                },
+                {
+                    "url" : "pro2img3.png",
+                    "caption" : "Cake Gallery Page with Image Gallery",
+                    "alt" : "Screenshot of desktop website with black text on off-white background, three columns with images with black text captions underneath."
+                },
+                {
+                    "url" : "pro2img4.png",
+                    "caption" : "End of Cake Gallery Page with Footer",
+                    "alt" : "Screenshot of desktop website with black text on off-white background, three columns with images with black text captions underneath, above a black footer banner with light grey text and Miss Muffet Cakes logo."
+                },
+                {
+                    "url" : "pro2img5.png",
+                    "caption" : "Mobile Layout of Navibar and Home Page",
+                    "alt" : "Screenshot of mobile website with white text links in a hamburger structure on a blue background, below is black text on an off-white background."
+                },
+                {
+                    "url" : "pro2img6.png",
+                    "caption" : "Mobile Layout of About Us Page",
+                    "alt" : "Screenshot of mobile website with black text on an off-white background, and a blue circus cake with a fondant elephant and lion on the top."
+                },
+                {
+                    "url" : "pro2img7.png",
+                    "caption" : "Mobile Layout of Our History Page",
+                    "alt" : "Screenshot of mobile website with a chocolate cake beside white Miss Muffet Cakes logo on blue background above black text on off-white background, with a low progress bar and a ladybug cake below it."
+                },
+                {
+                    "url" : "pro2img8.png",
+                    "caption" : "Mobile Layout of Contact Us Page",
+                    "alt" : "Screenshot of mobile website with black text on off-white background, and a contact form with labels and input fields and a blue submit button."
+                },
+                {
+                    "url" : "pro2img9.png",
+                    "caption" : "Mobile Layout of Footer",
+                    "alt" : "Screenshot of mobile website with black text on off-white background above a black footer banner with the contents stacked vertically with light-grey text on the footer and the Miss Muffet Cakes logo."
+                }
+            ],
+            "documentation" : "MissMuffetCakesWebsite.pdf"
+        },
+        {
+            "projectId" : 3,
+            "title" : "Study Tracker and Timetable Mobile Application",
+            "descriptionFull" : "The Android app was made for students to help keep track of their subject periods, and any tasks or assignments. CRUD functionality played a large part in this app, as it would allow the user to add, edit and delete these subject periods and tasks. It could also display the timetable as daily, weekly or by subject. It was designed for both small(phone size) and large(tablet size) devices, and had translations for the Spanish language. This app project was made for an assignment for my Mobile Applications paper in my second year of my IT Bachelor's, and I wanted it to help me monitor and keep track of all my assignments across my papers.",
+            "descriptionShort" : "Android mobile application for study tracking and class timetable",
+            "features" : ["CRUD", "Device Accessibility", "Sorting", "Local Database", "RecyclerView"],
+            "languages" : ["Java", "XML"],
+            "tools" : ["Figma", "Android Studio", "Coolors.co"],
+            "categories" : ["Android Application Development", "Design", "Local Database"],
+            "duration" :"8 Weeks",
+            "yearCompleted" : "2024",
+            "images" : [
+                {
+                    "url" : "pro3img1.png",
+                    "caption" : "Home Screen Today's Timetable and Tasks",
+                    "alt" : "Screenshot of phone app with black navbar and aqua text. Below is an off-white background and black text with a timetable and task lists."
+                },
+                {
+                    "url" : "pro3img2.png",
+                    "caption" : "Timetable Screen Showing the Weekly Timetable Fragment",
+                    "alt" : "Screenshot of phone app with black navbar and aqua text, and another aqua navbar with black text for different timetables. Below is an off-white background and black text with the timetable periods list for the week. There is an aqua button with a plus in the bottom-right corner."
+                },
+                {
+                    "url" : "pro3img3.png",
+                    "caption" : "Add New Timetable Fragment",
+                    "alt" : "Screenshot of phone app with black bar and red exit button, below is an off-white background with black text, and labels with input fields for entering in timetable periods."
+                },
+                {
+                    "url" : "pro3img4.png",
+                    "caption" : "To Do List Screen",
+                    "alt" : "Screenshot of phone app with black navbar and aqua text. Below is an off-white background and black text listing tasks, and there is an aqua button with a plus in the bottom-right corner."
+                },
+                {
+                    "url" : "pro3img5.png",
+                    "caption" : "Add New Task Fragment and Add Subject Fragment",
+                    "alt" : "Screenshot of phone app with black bar and red exit button, below is an off-white background with black text, and labels with input fields for entering in new tasks. Overtop is a small box with labels and input fields for entering a new subject."
+                },
+                {
+                    "url" : "pro3img6.png",
+                    "caption" : "Edit Task Fragment",
+                    "alt" : "Screenshot of phone app with black bar and red exit button, below is an off-white background with black text, and labels with already populated input fields for editing tasks."
+                },
+                {
+                    "url" : "pro3img7.png",
+                    "caption" : "Spanish Translation of Tablet Version Home Screen",
+                    "alt" : "Screenshot of tablet app with black navbar and aqua text. Below is an off-white background and black text in Spanish saying there is nothing on for the day."
+                },
+                {
+                    "url" : "pro3img8.png",
+                    "caption" : "Spanish Translation of Tablet Version Edit Timetable Period Fragment",
+                    "alt" : "Screenshot of tablet app with black bar and red exit button, below is off-white background with black text in Spanish, and labels with already populated input fields for editing timetable periods."
+                },
+                {
+                    "url" : "pro3img9.png",
+                    "caption" : "Spanish Translation of Tablet Version To Do List Screen",
+                    "alt" : "Screenshot of tablet app with black navbar and aqua text. Below is an off-white background and black text in Spanish listing tasks, and there is an aqua button with a plus in the bottom-right corner."
+                }
+            ],
+            "documentation" : "StudyTrackerMobileApp.pdf"
+        },
+        {
+            "projectId" : 4,
+            "title" : "Collective Airlines Flight Database",
+            "descriptionFull" : "For the second year of my IT Bachelor, I had a group project for my Object-Oriented Database paper. It was for a company that books flights, which we named the Collective Travel Store. We created a JADE-based interface and system, where users could search for available flights. They could then apply for a ticket for the flight. It was a level-based system. There were four levels: Guest, Passenger, Manager, and Admin. Each level had a different interface as they had different permissions. There were CRUD functions for passenger and ticket management, and tickets were able to be printed.",
+            "descriptionShort" : "JADE interface and system for a flight booking company",
+            "features" : ["CRUD", "Level-Based Access", "Backup Logs", "Error Prevention", "Authorisation"],
+            "languages" : ["JADE"],
+            "tools" : ["JADE IDE"],
+            "categories" : ["Database", "Software Application"],
+            "duration" : "12 Weeks",
+            "yearCompleted" : "2024",
+            "images" : [
+                {
+                    "url" : "pro4img1.png",
+                    "caption" : "Welcome and Flight Search",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, input dropdowns for airport selection, and search, register and login buttons."
+                },
+                {
+                    "url" : "pro4img2.png",
+                    "caption" : "List of Available Flights Based on Selection",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, a list table with details of available flights, and back and login buttons."
+                },
+                {
+                    "url" : "pro4img3.png",
+                    "caption" : "Login Page",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, text inputs for login information, and main menu, register, and login buttons."
+                },
+                {
+                    "url" : "pro4img4.png",
+                    "caption" : "Register and Edit Passenger Page With Error Message",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, text and dropdown inputs, cancel and ok buttons, and an error message that says first name is required."
+                },
+                {
+                    "url" : "pro4img5.png",
+                    "caption" : "Passenger Menu Interface",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, four icon links; ticket with a plus for applying for ticket, two tickets with a plane for viewing tickets, a cartoon person in the center of rotating arrows for updating passenger info, and an exit door for logging out."
+                },
+                {
+                    "url" : "pro4img6.png",
+                    "caption" : "Manager Menu Interface",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, five icon links; two tickets with a plane for viewing tickets, cartoon person on seat for managing passengers, two hands passing money for processing payment, plane for managing flights, and an exit door for logging out."
+                },
+                {
+                    "url" : "pro4img7.png",
+                    "caption" : "Admin Menu Interface",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, six icon links; cartoon person on seat for managing passengers, two hands passing money for processing payment, plane for managing flights, two tickets with a plane for managing tickets, page with LOG for viewing logs, and an exit door for logging out."
+                },
+                {
+                    "url" : "pro4img8.png",
+                    "caption" : "Apply for Ticket Page",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, text and dropdown inputs, and cancel and confirm buttons."
+                },
+                {
+                    "url" : "pro4img9.png",
+                    "caption" : "List of Passengers",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, a list table with details of registered passengers, and back, remove passenger, and edit passenger buttons."
+                }
+                ,
+                {
+                    "url" : "pro4img10.png",
+                    "caption" : "List of Tickets and Ticket Printout",
+                    "alt" : "Screenshot of JADE application with black text on light grey background, a list table with details of tickets, and back, and print ticket buttons, and an output with the printed details of a ticket."
+                }
+            ],
+            "documentation" : "CollectiveAirlinesJADE.pdf"
+        },
+        {
+            "projectId" : 5,
+            "title" : "Gantt Chart Mobile Application",
+            "descriptionFull" : "This Gantt Chart app was a group project for my Project paper in the second year of my IT Bachelor's. We designed and developed a mobile app where the user can log in and create a project. They can then create tasks and manage within that project, which can be viewed as a Gantt Chart, a table list, or a 'next three weeks' Gantt Chart view. There were CRUD functions for the projects and the tasks, so that if the project schedule changes, this could be reflected in the chart. This project involved thorough planning documentation as well and included the creation of an implementation plan and completion report.",
+            "descriptionShort" : "Android mobile application for project Gantt Chart creation and task management",
+            "features" : ["Authorisation", "CRUD", "RecyclerView", "Local Database", "Project Development Lifecycle"],
+            "languages" : ["Java", "XML"],
+            "tools" : ["Android Studio", "Figma", "Coolors.co", "Word", "Youtube"],
+            "categories" : ["Project Management", "Android Application Development", "Design", "Testing"],
+            "duration" : "17 Weeks",
+            "yearCompleted" : "2024",
+            "images" : [
+                {
+                    "url" : "pro5img1.png",
+                    "caption" : "Welcome and Login Screen",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue cartoon gantt chart, black text login input fields, and dark blue with white text forgot password, login and create account buttons."
+                },
+                {
+                    "url" : "pro5img2.png",
+                    "caption" : "Register User Screen",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue navbar on the top, black text labels and input fields for creating an account, and a dark blue button with white text."
+                },
+                {
+                    "url" : "pro5img3.png",
+                    "caption" : "Add New Project Screen",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue navbar on the top, black text labels and input fields for creating a project, and cancel and create buttons."
+                },
+                {
+                    "url" : "pro5img4.png",
+                    "caption" : "Home Screen for Showing Current Projects",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue navbar on the top, a list of projects with black text and a dark blue pencil icon, and a dark blue button with a white plus in the bottom-right corner."
+                },
+                {
+                    "url" : "pro5img5.png",
+                    "caption" : "List of Tasks Screen",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue navbar on the top with two different calendar icons, a list of tasks and their details with black text, and a dark blue button with a white plus in the bottom-right corner."
+                },
+                {
+                    "url" : "pro5img6.png",
+                    "caption" : "Next Three Weeks Schedule List Fragment",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue navbar on the top with two different calendar icons, a list of tasks for the next three weeks and their details with black text in a table format, and a dark blue button with a white plus in the bottom-right corner."
+                },
+                {
+                    "url" : "pro5img7.png",
+                    "caption" : "Next Three Weeks Gantt Chart Fragment",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue navbar on the top with two different calendar icons, a gantt chart for the next three weeks with light blue blocks to represent the tasks, and a dark blue button with a white plus in the bottom-right corner."
+                },
+                {
+                    "url" : "pro5img8.png",
+                    "caption" : "Full Gantt Chart Screen",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue navbar on the top with two different calendar icons and a download icon, a full gantt chart with light blue blocks to represent the tasks, and a dark blue button with a white plus in the bottom-right corner."
+                },
+                {
+                    "url" : "pro5img9.png",
+                    "caption" : "Add New Task Fragment",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue navbar on the top with a back arrow icon, and labels with input fields for entering in new tasks."
+                }
+                ,
+                {
+                    "url" : "pro5img10.png",
+                    "caption" : "Edit Task Fragment",
+                    "alt" : "Screenshot of mobile app with an off-white background, a dark blue navbar on the top with a back arrow icon, and labels with already populated input fields for changing task information."
+                }
+            ],
+            "documentation" : "GanttChartMobileAppGroupProject.pdf"
+        },
+        {
+            "projectId" : 6,
+            "title" : "To-Do List Client and Server",
+            "descriptionFull" : "A to-do list is a useful tool, especially in group situations where all members have access to the list. When the server is running, multiple clients/users can open and change the list and tasks. The server keeps track of which client makes what change and works by looking at a request and sending the necessary response. This application was made for a group project in my Advanced Programming paper in my second year while doing the IT Bachelor's.",
+            "descriptionShort" : "To-do list application that uses a server to handle multiple clients",
+            "features" : ["CRUD", "Threads", "Client and Server", "Winforms", "JSON Serialisation"],
+            "languages" : ["C#"],
+            "tools" : ["Visual Studio 2022"],
+            "categories" : ["Programming", "Design"],
+            "duration" : "7 Weeks",
+            "yearCompleted" : "2024",
+            "images" : [
+                {
+                    "url" : "pro6img1.png",
+                    "caption" : "Client Welcome and Login Page",
+                    "alt" : "Screenshot of a light blue page with grey text, a text input, and a connect button."
+                },
+                {
+                    "url" : "pro6img2.png",
+                    "caption" : "To Do List Page",
+                    "alt" : "Screenshot of a light blue page with black text, a table that shows details of tasks, and sort, delete task, add task and new list buttons."
+                },
+                {
+                    "url" : "pro6img3.png",
+                    "caption" : "Add New Task Page",
+                    "alt" : "Screenshot of a light blue page with black text, labels and input fields for entering new tasks, and cancel and okay buttons."
+                },
+                {
+                    "url" : "pro6img4.png",
+                    "caption" : "Edit Task Page",
+                    "alt" : "Screenshot of a light blue page with black text, labels and already populated input fields for editing tasks, and cancel and okay buttons."
+                },
+                {
+                    "url" : "pro6img5.png",
+                    "caption" : "Server",
+                    "alt" : "Screenshot of a server terminal describing movements of the clients, black background with white text."
+                }
+            ],
+            "documentation" : "ToDoListClientServer.zip"
+        }
+    ]
+}
