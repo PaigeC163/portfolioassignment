@@ -459,6 +459,10 @@ button:hover {
   width: 50%;
 }
 
+.nav_logo {
+    width: 30%
+  }
+
 .about_items {
   align-items:normal;
 }
