@@ -27,7 +27,7 @@ html, body {
 
 #navbar {
   background-color: #848FA5;
-  height: 8vh;
+  height: 80px;
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -512,7 +512,7 @@ button:hover {
       flex-direction: column;
       background-color: #848FA5;
       position: absolute;
-      top: 6vh;
+      top: 60px;
       left: 0;
       width: 100%;
   }
