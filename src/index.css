@@ -27,7 +27,7 @@ html, body {
 
 #navbar {
   background-color: #848FA5;
-  height: 8vh;
+  height: 60px;
   display: flex;
   align-items: center;
   overflow: hidden;
