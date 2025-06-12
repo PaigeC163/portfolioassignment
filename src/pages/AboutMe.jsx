@@ -20,8 +20,8 @@ function AboutMe() {
                         <h3>Paige Bailey Clay</h3>
                         <p>I was born and raised in Invercargill.</p>
                         <p>I went to Windsor North primary school for 6 years, then went to Southland Girls High School until midway through Year 13, after which I left high school to do the Level 4 IT Essentials Certificate at SIT.</p>
-                        <p>Currently I study full-time at SIT and am in my 3rd year of my Bachelor of IT. Outside of my course I work as a Checkout Supervisor at Pak n Save.</p>
-                        <p>During my spare time I like to read or spead time with friends.</p>
+                        <p>Currently I study full-time at SIT and am in my 3rd year of my Bachelor of IT. Outside of my course, I work as a Checkout Supervisor at Pak n Save.</p>
+                        <p>During my spare time I like to read or spend time with friends.</p>
                         <button 
                             onClick={() => {
                                 const link = document.createElement('a');
